@@ -1,0 +1,6 @@
+{
+  "name": "ScalpShizuku",
+  "description": "Otomasi scalping ketat XAUUSD single APK (Kotlin Native + Shizuku Non-Root) dengan SMC, HMM Viterbi, MiniXGBoost, 14 filter, Half-Kelly, dan feedback OCR offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

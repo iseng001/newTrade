@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Precision crosshair ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,25 A29,29 0 1,0 54,83 A29,29 0 1,0 54,25 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#33F5B731" />
+    <!-- Bullish candle left -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M36,42h3v28h-3z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M32.5,48h10v16h-10z" />
+    <!-- Gold Scalp Lightning Bolt Center -->
+    <path
+        android:fillColor="#F5B731"
+        android:pathData="M57,26L43,55h10l-4,27l18,-31H56z" />
+    <!-- Bearish/Target candle right -->
+    <path
+        android:fillColor="#F5B731"
+        android:pathData="M70,38h3v28h-3z" />
+    <path
+        android:fillColor="#F5B731"
+        android:pathData="M66.5,44h10v14h-10z" />
+</vector>

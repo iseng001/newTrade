@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ScalpShizuku</string>
+    <string name="app_subtitle">XAUUSD Strict Scalping Engine</string>
+
+    <string name="nav_terminal">Terminal</string>
+    <string name="nav_filters">14 Filter</string>
+    <string name="nav_calibration">Kalibrasi</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <string name="status_engine_running">ENGINE AKTIF</string>
+    <string name="status_engine_stopped">ENGINE BERHENTI</string>
+    <string name="mode_dry_run">Dry-Run (Sinyal Saja)</string>
+    <string name="mode_live_tap">Live Auto-Tap (Shizuku)</string>
+    <string name="btn_start_engine">START SCALP ENGINE</string>
+    <string name="btn_stop_engine">STOP SCALP ENGINE</string>
+    <string name="btn_eval_now">Evaluasi Sekarang</string>
+
+    <string name="perm_section_title">Kesiapan Izin Sistem</string>
+    <string name="perm_overlay_title">Draw Over Other Apps</string>
+    <string name="perm_overlay_desc">Wajib untuk target kalibrasi overlay di atas MT5.</string>
+    <string name="perm_shizuku_title">Otorisasi Shizuku (Non-Root)</string>
+    <string name="perm_shizuku_desc">Eksekusi sentuhan UID 2000 berlatensi rendah.</string>
+    <string name="perm_notif_title">Notifikasi Foreground</string>
+    <string name="perm_notif_desc">Menjaga siklus polling 5 detik tetap aktif.</string>
+    <string name="status_granted">Aktif</string>
+    <string name="status_missing">Belum Aktif</string>
+    <string name="status_shizuku_offline">Shizuku Off</string>
+
+    <string name="calib_section_title">Kalibrasi Koordinat MT5</string>
+    <string name="calib_buy_label">Tombol BUY</string>
+    <string name="calib_sell_label">Tombol SELL</string>
+    <string name="calib_pnl_label">Area ROI PnL (360×100 px)</string>
+    <string name="calib_action_set">Kalibrasi Overlay</string>
+    <string name="calib_save">Simpan</string>
+    <string name="calib_cancel">Batal</string>
+
+    <string name="settings_risk_title">Manajemen Risiko &amp; Modal</string>
+    <string name="settings_balance_label">Saldo Modal (USD)</string>
+    <string name="settings_telegram_title">Notifikasi Bot Telegram</string>
+    <string name="settings_tg_token_label">Telegram Bot Token</string>
+    <string name="settings_tg_chat_label">Telegram Chat ID</string>
+    <string name="settings_save_btn">Simpan Konfigurasi</string>
+    <string name="settings_test_tg_btn">Uji Kirim Telegram</string>
+    <string name="settings_reset_pnl_btn">Reset PnL Harian</string>
+    <string name="settings_clear_csv_btn">Bersihkan experience_log.csv</string>
+
+    <string name="notif_channel_name">ScalpShizuku Engine</string>
+    <string name="notif_channel_desc">Status aktif foreground service eksekusi dan OCR PnL XAUUSD</string>
+    <string name="notif_title_running">ScalpShizuku Aktif — XAUUSD M1</string>
+</resources>
